@@ -29,7 +29,7 @@ function checkArrayForPrimes( array ) {          //  given an array check which 
     }
   }
 }
-  
+ 
 function isPrime(n) {                            //  given a number, check if it is prime
   var sqr = Math.sqrt(n) + 1;                    //  get the square root of a number
   for (m=2; m < sqr; m++) {                      //  iterate up from 2 to the square root of the number

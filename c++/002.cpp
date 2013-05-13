@@ -36,7 +36,7 @@ int main( int argc, const char * argv[] )
   }
 
   cout << sum << endl;
-
+  return 0;
 }
 
 unsigned int fib ( int term ) 

@@ -21,5 +21,7 @@ int main( int argc, const char * argv[] )
       sum += i; 
 
   cout<<sum<<endl;
+
+  return 0;
 }
 
